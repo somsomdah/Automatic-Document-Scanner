@@ -1,11 +1,10 @@
 # Automatic Document Scanner
 
 ## Example
-#### input
-![](./imgs/in1.jpg)
-#### output
-![](./imgs/out1_1.jpg)
-![](./imgs/out1_2.jpg)
+
+![](./imgs/in4.jpg)
+![](./imgs/out4_1.jpg)
+![](./imgs/out4_2.jpg)
 
 ## How To Use
 - put images in "input" directory
