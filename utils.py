@@ -61,12 +61,4 @@ def resize_img(image):
                      dim=(int(img.shape[1] * r),500)
                      img=cv2.resize(img, dim, interpolation = cv2.INTER_AREA)
      return img
-
-def find_edges(image)
-        # Convert to grayscale and find edges
-        gray=cv2.cvtColor(image,cv2.COLOR_BGR2GRAY)
-        blur=cv2.GaussianBlur(gray,(5,5),0)
-        edge=cv2.Canny(blur,50,150)
-        #cv2.imshow('Canny',edge)
-        return edge
                 
