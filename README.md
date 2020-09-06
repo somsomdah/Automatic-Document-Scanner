@@ -2,10 +2,10 @@
 
 ## Example
 #### input
-![](./imgs/in1)
-![](./imgs/out1_1)
+![](./imgs/in1.jpg)
 #### output
-![](./imgs/out1_2)
+![](./imgs/out1_1.jpg)
+![](./imgs/out1_2.jpg)
 
 ## How To Use
 - put images in "input" directory
