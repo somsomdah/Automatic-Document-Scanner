@@ -2,7 +2,7 @@
 
 ## Example
 
-![](./imgs/in4.jpg)
+![](./imgs/in4.png)
 ![](./imgs/out4_1.jpg)
 ![](./imgs/out4_2.jpg)
 
