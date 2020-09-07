@@ -2,9 +2,7 @@
 
 ## Example
 
-![](./imgs/in4.png)
-![](./imgs/out4_1.jpg)
-![](./imgs/out4_2.jpg)
+![](./imgs/main_image.png)
 
 -----------------------
 ## How To Use
