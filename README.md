@@ -2,9 +2,9 @@
 
 ## Example
 
-![](./imgs/in4.png = 100x200)
-![](./imgs/out4_1.jpg = 100x200)
-![](./imgs/out4_2.jpg = 100x200)
+![](./imgs/in4.png)
+![](./imgs/out4_1.jpg)
+![](./imgs/out4_2.jpg)
 
 -----------------------
 ## How To Use
